@@ -1,0 +1,24 @@
+p {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-size: 34px;
+}
+h2 {
+	margin-top: 50px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: center;
+    text-shadow: 3px 2px grey;
+    font-size: 60px;
+}
+.hobby { 
+    background-color: #bcb4bb;
+}
+#boat {
+	margin-left: 80px;
+	margin-right: 150px;
+	margin-top: 25px;
+}
